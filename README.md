@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AG211695.AG211695" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susan+An+Aspiring+AI+Virtuoso!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susan;+An+Aspiring+AI+Virtuoso!;" />
 </h1>
 
 <h3 align="center">A passionate data science professional from USA</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **NLP & LLM's**
 
-💬 Ask me about **Machine Learning, Python, Math, Statistics... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Machine Learning, Python, Math, Statistics... or anything [here](https://github.com/AG211695/AG211695/issues)**
 
 ⚡ Fun fact **Butterflies taste with their feet. Fancy shoes!**
 
@@ -31,3 +31,14 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,r,mssql,postgresql,mongodb,cassandra,docker,kubernetes,aws,azure,gcp,databricks,hadoop,tableau,github,gitlab,jira,notion,salesforce,sap,powerbi,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,pytorch,spark,huggingface,openai" />
+</div>
+
+<br/>
+<hr/>
