@@ -10,13 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working as **a BI Developer**
- 
- 🌱 I’m currently learning **NLP & LLM's**
-
-💬 Ask me about **Machine Learning, Python, Math, Statistics... or anything [here](https://github.com/AG211695/AG211695/issues)**
-
-⚡ Fun fact **Butterflies taste with their feet. Fancy shoes!**
+ <p>Data-driven explorer on a quest to uncover the hidden gems within vast datasets. Armed with a toolkit of machine learning, </br>
+ statistical modeling, and data visualization, I'm passionate about using data to solve real-world problems and drive innovation. </br>
+ Let's embark on a journey together to turn raw data into actionable insights that make a tangible impact.</p>
 
  </div>
  
@@ -36,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,r,mssql,postgresql,mongodb,cassandra,docker,kubernetes,aws,azure,gcp,databricks,hadoop,tableau,github,gitlab,jira,notion,salesforce,sap,powerbi,vscode,figma" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,pytorch,spark,huggingface,openai" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,r,mongodb,cassandra,aws,azure,gcp,github" />
+    <img src="https://skillicons.dev/icons?i=gitlab,notion,vscode,figma,tensorflow,fastapi,pytorch,docker,kubernetes" />
 </div>
 
 <br/>
